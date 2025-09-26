@@ -8,7 +8,7 @@ attach(data)
 popmn <- mean(Weight.kg.)
 popsd <- sd(Weight.kg.)
 
-popvar
+popmn
 popsd
 
 #Q2
